@@ -15,9 +15,3 @@ Domain Path: /languages
 License: GNU General Public License v2.0 (or later)
 License URI: http://www.opensource.org/licenses/gpl-license.php
 */
-
-require 'plugin-update-checker/plugin-update-checker.php';
-$myUpdateChecker = PucFactory::buildUpdateChecker(
-    'http://example.com/path/to/metadata.json',
-    __FILE__
-);
