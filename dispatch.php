@@ -7,7 +7,7 @@ Description:
 Author: Vsellis
 Author URI: http://www.vsellis.com
 
-Version: 4.0.1
+Version: 5.0.0
 
 Text Domain:
 Domain Path: /languages
